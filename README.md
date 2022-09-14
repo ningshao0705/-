@@ -9,6 +9,7 @@
 
 小白向，不喜勿喷
 
+本代码部分参考网络
 
 小爱课程表开发文档：https://open-schedule-prod.ai.xiaomi.com/docs/#/help/
 
